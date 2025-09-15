@@ -1,2 +1,2 @@
 # vacation_training_25
-files used for my training during the vacation period 2025
+I am going to build a basic recipe website as a practice of what I have learnt so far in html 
